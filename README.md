@@ -1,2 +1,3 @@
-# Password generator app
+# Password generator app 
+ ---solo project---
  
